@@ -33,7 +33,6 @@ MOVE          = mv -f
 TAR           = tar -cf
 COMPRESS      = gzip -9f
 DISTNAME      = Labrador1.0.0
-DISTDIR = /home/maks/work/Labrador/Desktop\ Interface/.tmp/Labrador1.0.0
 LINK          = g++
 LFLAGS        = -Wl,-O1
 LIBS          = $(SUBLIBS) -Lbuild_linux/libusb -lusb-1.0 -lQt5PrintSupport -L/usr/X11R6/lib64 -lQt5Widgets -lQt5Gui -lQt5Core -lGL -lpthread -Lbuild_linux/libusb/.libs 
