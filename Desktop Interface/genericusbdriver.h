@@ -11,6 +11,8 @@
 #include "xmega.h"
 #include "desktop_settings.h"
 #include "buffercontrol.h"
+#include <stdint.h>
+#include <cmath>
 
 #define ISO_PACKET_SIZE 1023
 #define ISO_PACKETS_PER_CTX 17
