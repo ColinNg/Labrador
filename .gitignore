@@ -1,0 +1,3 @@
+*.o
+qrc_resources.cpp
+Desktop Interface/bin
