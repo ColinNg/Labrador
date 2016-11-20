@@ -1,4 +1,25 @@
 *.o
-qrc_resources.cpp
+Labrador.pro.user
 Desktop Interface/bin
+Desktop Interface/Makefile
+Desktop Interface/moc_buffercontrol.cpp
+Desktop Interface/moc_cursorenabler.cpp
+Desktop Interface/moc_deviceconnecteddisplay.cpp
+Desktop Interface/moc_espocombobox.cpp
+Desktop Interface/moc_esposlider.cpp
+Desktop Interface/moc_espospinbox.cpp
+Desktop Interface/moc_functiongencontrol.cpp
+Desktop Interface/moc_genericusbdriver.cpp
+Desktop Interface/moc_isodriver.cpp
+Desktop Interface/moc_mainwindow.cpp
+Desktop Interface/moc_noclosemenu.cpp
+Desktop Interface/moc_qcustomplot.cpp
+Desktop Interface/moc_scoperangeenterdialog.cpp
+Desktop Interface/moc_timedtickbox.cpp
+Desktop Interface/moc_unixusbdriver.cpp
+Desktop Interface/moc_voltagespinbox.cpp
+Desktop Interface/ui_mainwindow.h
+Desktop Interface/ui_scoperangeenterdialog.h
+Desktop Interface/qrc_resources.cpp
+build-Labrador-Desktop_Qt_5_7_0_clang_64bit-Debug
 build-Labrador-Desktop_Qt_5_7_0_clang_64bit-Release
